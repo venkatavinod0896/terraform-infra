@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"storage","Source":"../../modules/s3","Dir":"../../modules/s3"},{"Key":"vpc","Source":"../../modules/vpc","Dir":"../../modules/vpc"},{"Key":"web_sg","Source":"../../modules/security-group","Dir":"../../modules/security-group"},{"Key":"webserver","Source":"../../modules/ec2","Dir":"../../modules/ec2"}]}
